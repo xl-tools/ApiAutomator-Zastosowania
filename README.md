@@ -1,0 +1,2 @@
+# ApiAutomator-Zastosowania
+ApiAutomator-Zastosowania
