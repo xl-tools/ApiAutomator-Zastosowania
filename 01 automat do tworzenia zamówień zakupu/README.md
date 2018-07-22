@@ -1,4 +1,3 @@
-# ApiAutomator Zastosowania
-Przyk≥ady wykorzystania programy ApiAUtomator do realizacji codziennych prac adminmistracyjnych systemu ERP XL.
-Tutaj procedura dodajπca losowe zamÛwienia zakupu.
-Dokumentacja programu znajdue siÍ na stronie https://xltools.3lance.pl/
+# Automat do tworzenia zam√≥wie≈Ñ zakupu ZZ
+Skrypt zwraca dane pozwalajƒÖce na wygenerowanie losowych Zam√≥wie≈Ñ Zakupu przez ApiAutomator.
+wiƒôcej informacji na [https://cdn.3lance.pl/](Forum Administrator√≥w ERP XL)
