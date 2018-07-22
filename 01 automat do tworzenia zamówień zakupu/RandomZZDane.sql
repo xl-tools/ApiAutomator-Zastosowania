@@ -34,7 +34,7 @@ select
 	top (@RndNr)
 	'XLDodajPozycjeZam' as _komenda, /* _komenda API którą trzeba wywołać */
 	format(abs(checksum(newid()) % 240) + 12,'G','pl-PL') as Ilosc,
-	format(TwC_Wartosc,'G','pl-PL') as Cena,
+	format(TwC_Wartosc,'G','pl-PL') as CenaKatalogowa,
 	twr_gidtyp as TwrTyp,
 	twr_gidnumer as TwrNumer
 from
